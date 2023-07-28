@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Welcome to my profile!</h1>
+<br>
+
+<div style="display: inline_block"><br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheusousams&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheusousams&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
